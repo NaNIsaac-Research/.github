@@ -9,9 +9,10 @@ test them, and the code, data and figures needed to reproduce the results.
   how acoustic Bragg satellites form while a GHz sound wave enters a perfect crystal. The solver is
   on PyPI as `tratt`; the repository holds the analysis scripts, the lab notebook and the poster
   source.
-- XRR inverse problem: how well a single X-ray reflectivity curve determines the parameters of a
-  thin film. Work in progress, kept in
-  [ReflectoLearn](https://github.com/NaNIsaac/ReflectoLearn/tree/research/identifiability/docs/identifiability).
+- [ReflectoLearn](https://github.com/NaNIsaac-Research/ReflectoLearn): the XRR inverse problem,
+  how well a single X-ray reflectivity curve determines the parameters of a thin film and whether a
+  fitting procedure can be learned. Five registered experiments, indexed in
+  [docs/research](https://github.com/NaNIsaac-Research/ReflectoLearn/blob/main/docs/research/README.md).
 
 ## Presentations
 
